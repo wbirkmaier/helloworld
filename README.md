@@ -4,6 +4,6 @@ What goes here?
 We shall see.
 
 ###A list of things
-+Stuff
-+More Stuff
-+Less Stuff
++ Stuff
++ More Stuff
++ Less Stuff
